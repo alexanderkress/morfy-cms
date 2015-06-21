@@ -1,12 +1,12 @@
 <?php
 
 /**
- * Markdown plugin
+ *  Markdown plugin
  *
  *  @package Morfy
  *  @subpackage Plugins
  *  @author Romanenko Sergey / Awilum
- *  @copyright 2014 Romanenko Sergey / Awilum
+ *  @copyright 2014 - 2015 Romanenko Sergey / Awilum
  *  @version 1.0.0
  *
  */
